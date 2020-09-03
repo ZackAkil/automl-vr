@@ -5,11 +5,12 @@ An end-to-end process to build and deploy an object detection model that runs wi
 
 ### The orginal TFLite Unity Example
 https://www.github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/experimental/examples/unity/TensorFlowLitePlugin
+(don't bother compiling your own TFLite library, use the [pre-built ones in this repo](https://github.com/ZackAkil/automl-vr/tree/master/Unity%20TFLite%20libraries))
 
 ### Gist for generating perfect bounding boxes
 https://gist.github.com/ZackAkil/ce6604fd5ac008756f938047ce73d9d5
 
-### Gist for capturing a UNity camera view as PNG
+### Gist for capturing a Unity camera view as PNG
 https://gist.github.com/ZackAkil/b22471aefa05fac6ad46f7589081dffb
 
 ### Generating a bounding box label CSV row for Google AutoML Object Detection
