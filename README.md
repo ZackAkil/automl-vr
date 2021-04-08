@@ -1,4 +1,4 @@
-# Automl VR
+# Automl VR - [watch on youtube](https://www.youtube.com/watch?v=igaYzWov3Sw)
 An end-to-end process to build and deploy an object detection model that runs within VR using Google Cloud AutoML model exported to the edge.
 
 <img height="400" src="factory.gif">
